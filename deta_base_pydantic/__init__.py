@@ -7,7 +7,7 @@ a field named key of type str.
 The module does not subclass the deta classes but tries to mimic their interface as closely as possible.
 """
 
-__version__ = "0.1.1.p1"
+__version__ = "0.1.1.post1"
 
 from pydantic import BaseModel
 from deta import Deta
