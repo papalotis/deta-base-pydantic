@@ -16,6 +16,6 @@ dependencies = [
 ]
 
 [project.urls]
-Home = "https://www.pkaragiannis.com"
+Home = "https://github.com/papalotis/deta-base-pydantic"
 
 
